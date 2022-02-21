@@ -2,6 +2,8 @@
 
 ## ScreenShot
 
+<img src="https://github.com/Ankan002/expert-advices/blob/main/assets/screenshot.png" />
+
 ## Technologies used
 
 - [NextJS](https://nextjs.org/)
